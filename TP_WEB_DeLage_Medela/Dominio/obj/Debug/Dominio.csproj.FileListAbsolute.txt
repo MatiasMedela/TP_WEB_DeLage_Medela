@@ -1,0 +1,6 @@
+C:\Users\matia\MiRepo\TP_WEB_DeLage_Medela\TP_WEB_DeLage_Medela\Dominio\bin\Debug\Dominio.dll
+C:\Users\matia\MiRepo\TP_WEB_DeLage_Medela\TP_WEB_DeLage_Medela\Dominio\bin\Debug\Dominio.pdb
+C:\Users\matia\MiRepo\TP_WEB_DeLage_Medela\TP_WEB_DeLage_Medela\Dominio\obj\Debug\Dominio.csprojAssemblyReference.cache
+C:\Users\matia\MiRepo\TP_WEB_DeLage_Medela\TP_WEB_DeLage_Medela\Dominio\obj\Debug\Dominio.csproj.CoreCompileInputs.cache
+C:\Users\matia\MiRepo\TP_WEB_DeLage_Medela\TP_WEB_DeLage_Medela\Dominio\obj\Debug\Dominio.dll
+C:\Users\matia\MiRepo\TP_WEB_DeLage_Medela\TP_WEB_DeLage_Medela\Dominio\obj\Debug\Dominio.pdb
