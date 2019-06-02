@@ -9,3 +9,14 @@ C:\Users\matia\MiRepo\TP_WEB_DeLage_Medela\TP_WEB_DeLage_Medela\Negocio\obj\Debu
 C:\Users\matia\MiRepo\TP_WEB_DeLage_Medela\TP_WEB_DeLage_Medela\Negocio\obj\Debug\Negocio.csproj.CopyComplete
 C:\Users\matia\MiRepo\TP_WEB_DeLage_Medela\TP_WEB_DeLage_Medela\Negocio\obj\Debug\Negocio.dll
 C:\Users\matia\MiRepo\TP_WEB_DeLage_Medela\TP_WEB_DeLage_Medela\Negocio\obj\Debug\Negocio.pdb
+C:\Users\matia\Desktop\TP_WEB_DeLage_Medela\Negocio\bin\Debug\Negocio.dll
+C:\Users\matia\Desktop\TP_WEB_DeLage_Medela\Negocio\bin\Debug\Negocio.pdb
+C:\Users\matia\Desktop\TP_WEB_DeLage_Medela\Negocio\bin\Debug\AccesoADatos.dll
+C:\Users\matia\Desktop\TP_WEB_DeLage_Medela\Negocio\bin\Debug\Dominio.dll
+C:\Users\matia\Desktop\TP_WEB_DeLage_Medela\Negocio\bin\Debug\AccesoADatos.pdb
+C:\Users\matia\Desktop\TP_WEB_DeLage_Medela\Negocio\bin\Debug\Dominio.pdb
+C:\Users\matia\Desktop\TP_WEB_DeLage_Medela\Negocio\obj\Debug\Negocio.csprojAssemblyReference.cache
+C:\Users\matia\Desktop\TP_WEB_DeLage_Medela\Negocio\obj\Debug\Negocio.csproj.CoreCompileInputs.cache
+C:\Users\matia\Desktop\TP_WEB_DeLage_Medela\Negocio\obj\Debug\Negocio.csproj.CopyComplete
+C:\Users\matia\Desktop\TP_WEB_DeLage_Medela\Negocio\obj\Debug\Negocio.dll
+C:\Users\matia\Desktop\TP_WEB_DeLage_Medela\Negocio\obj\Debug\Negocio.pdb

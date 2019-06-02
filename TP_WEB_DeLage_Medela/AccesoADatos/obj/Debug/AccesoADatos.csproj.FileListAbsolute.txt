@@ -33,3 +33,9 @@ C:\Users\matia\MiRepo\TP_WEB_DeLage_Medela\TP_WEB_DeLage_Medela\AccesoADatos\obj
 C:\Users\matia\MiRepo\TP_WEB_DeLage_Medela\TP_WEB_DeLage_Medela\AccesoADatos\obj\Debug\AccesoADatos.csproj.CoreCompileInputs.cache
 C:\Users\matia\MiRepo\TP_WEB_DeLage_Medela\TP_WEB_DeLage_Medela\AccesoADatos\obj\Debug\AccesoADatos.dll
 C:\Users\matia\MiRepo\TP_WEB_DeLage_Medela\TP_WEB_DeLage_Medela\AccesoADatos\obj\Debug\AccesoADatos.pdb
+C:\Users\matia\Desktop\TP_WEB_DeLage_Medela\AccesoADatos\bin\Debug\AccesoADatos.dll
+C:\Users\matia\Desktop\TP_WEB_DeLage_Medela\AccesoADatos\bin\Debug\AccesoADatos.pdb
+C:\Users\matia\Desktop\TP_WEB_DeLage_Medela\AccesoADatos\obj\Debug\AccesoADatos.csprojAssemblyReference.cache
+C:\Users\matia\Desktop\TP_WEB_DeLage_Medela\AccesoADatos\obj\Debug\AccesoADatos.csproj.CoreCompileInputs.cache
+C:\Users\matia\Desktop\TP_WEB_DeLage_Medela\AccesoADatos\obj\Debug\AccesoADatos.dll
+C:\Users\matia\Desktop\TP_WEB_DeLage_Medela\AccesoADatos\obj\Debug\AccesoADatos.pdb

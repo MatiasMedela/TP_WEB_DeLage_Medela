@@ -35,6 +35,11 @@ namespace Web
                         this.lblMensaje.Text = "Error!!! Chequear los datos ingresados no corresponden con el dni";
                         break;
                     }
+                case 5:
+                    {
+                        this.lblMensaje.Text = "Error al enviar el mensaje";
+                        break;
+                    }
                 default: {
                         this.lblMensaje.Text = " "; break; }
             }

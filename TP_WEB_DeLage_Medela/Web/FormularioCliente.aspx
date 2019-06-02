@@ -18,8 +18,8 @@
     
 </head>
 
-    return true;
-}
+
+    
 <body>
     <div class="clsNavegador">
         <br />
@@ -33,7 +33,7 @@
            <div class="form-group col-md-6">
                 <asp:Label ID="lblDni" runat="server" Text="DNI"></asp:Label>
                 <br />
-                <asp:TextBox ID="tbxDni" runat="server" CssClass="clsTextBox1" required="required"></asp:TextBox>
+                <asp:TextBox ID="tbxDni" runat="server" CssClass="clsTextBox1" required="required" OnTextChanged="tbxDni_TextChanged"></asp:TextBox>
             </div>
         </div>
        <div class="form-row">
